@@ -1,2 +1,2 @@
 # simplemoney
-Android aplication for money management
+Android application for money management
